@@ -63,10 +63,10 @@ def menu():
     """Muestra el menú de opciones CRUD y ejecuta la operación seleccionada."""
     while True:
         print("\nMenú de opciones CRUD:")
-        print("1. Crear documento")
-        print("2. Leer documentos")
-        print("3. Actualizar documento")
-        print("4. Eliminar documento")
+        print("1. Crear Usuario")
+        print("2. Leer datos")
+        print("3. Actualizar datos")
+        print("4. Eliminar datos")
         print("5. Salir")
 
         opcion = input("Seleccione una opción (1-5): ")
